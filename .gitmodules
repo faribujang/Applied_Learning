@@ -1,0 +1,3 @@
+[submodule "HappyRobot"]
+	path = HappyRobot
+	url = git@github.com:faribujang/HappyRobot.git

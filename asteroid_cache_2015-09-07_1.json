@@ -1,0 +1,135 @@
+[
+  {
+    "date": "2015-09-07",
+    "name": "440012 (2002 LE27)",
+    "min_diameter_m": 318.0936332,
+    "max_diameter_m": 711.2789871,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-08",
+    "name": "465633 (2009 JR5)",
+    "min_diameter_m": 217.04759430000001,
+    "max_diameter_m": 485.3331752,
+    "is_hazardous": true
+  },
+  {
+    "date": "2015-09-08",
+    "name": "(2016 EK158)",
+    "min_diameter_m": 212.10698789999998,
+    "max_diameter_m": 474.2856434,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-08",
+    "name": "(2008 QV11)",
+    "min_diameter_m": 143.4019235,
+    "max_diameter_m": 320.656449,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-08",
+    "name": "(2015 RN83)",
+    "min_diameter_m": 117.6399894,
+    "max_diameter_m": 263.05101310000003,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-07",
+    "name": "(2015 FC35)",
+    "min_diameter_m": 98.75406389999999,
+    "max_diameter_m": 220.8207999,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-08",
+    "name": "(2015 UG)",
+    "min_diameter_m": 72.8710415,
+    "max_diameter_m": 162.9446024,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-07",
+    "name": "(2015 RX83)",
+    "min_diameter_m": 69.91252320000001,
+    "max_diameter_m": 156.3291544,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-08",
+    "name": "(2015 RO36)",
+    "min_diameter_m": 68.9532874,
+    "max_diameter_m": 154.184238,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-08",
+    "name": "(2015 TX237)",
+    "min_diameter_m": 58.150704,
+    "max_diameter_m": 130.02892699999998,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-07",
+    "name": "(2015 RH36)",
+    "min_diameter_m": 50.647145900000005,
+    "max_diameter_m": 113.25046110000001,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-07",
+    "name": "(2015 RY83)",
+    "min_diameter_m": 38.419789099999996,
+    "max_diameter_m": 85.9092601,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-08",
+    "name": "(2015 RC)",
+    "min_diameter_m": 36.6906138,
+    "max_diameter_m": 82.04270650000001,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-08",
+    "name": "(2016 RT)",
+    "min_diameter_m": 35.039264100000004,
+    "max_diameter_m": 78.3501764,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-07",
+    "name": "(2015 RL35)",
+    "min_diameter_m": 14.6067964,
+    "max_diameter_m": 32.6617897,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-08",
+    "name": "(2010 XT10)",
+    "min_diameter_m": 13.3215567,
+    "max_diameter_m": 29.7879063,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-07",
+    "name": "(2015 RG2)",
+    "min_diameter_m": 12.1494041,
+    "max_diameter_m": 27.1668934,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-07",
+    "name": "(2016 RU33)",
+    "min_diameter_m": 8.405334,
+    "max_diameter_m": 18.7948982,
+    "is_hazardous": false
+  },
+  {
+    "date": "2015-09-07",
+    "name": "(2016 RN41)",
+    "min_diameter_m": 1.6617089999999999,
+    "max_diameter_m": 3.7156943,
+    "is_hazardous": false
+  }
+]
